@@ -468,7 +468,7 @@ textarea {
 }
 /* footer*/
 footer {
-  background-color: lightgray;
+  background-color: grey;
   color: var(--text-color);
   text-align: center;
   height: 30vh;
